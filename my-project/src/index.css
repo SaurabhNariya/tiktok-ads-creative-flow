@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  display: block; /* Vite default center ko hatao */
+  min-width: 100vw;
+  min-height: 100vh;
+}
