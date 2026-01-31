@@ -35,6 +35,34 @@ http://localhost:5173
 
 OAuth Setup Steps (TikTok Ads)
 
+---
+
+## 📸 Application Screenshots
+
+### 1️⃣ Connect TikTok Ads Account (OAuth Simulation)
+This screen shows the initial OAuth-based TikTok Ads account connection flow.
+
+![Connect TikTok Ads Account](screenshots/01-connect-account.png)
+
+---
+
+### 2️⃣ Ad Creative Form
+This screen demonstrates the ad creation form where users configure:
+- Campaign name
+- Objective (Traffic / Conversions)
+- Ad text
+- Music selection with conditional validation
+
+![Ad Creative Form](screenshots/02-ad-form.png)
+
+---
+
+### 3️⃣ Ad Created Successfully
+After successful validation and simulated API response, a success message is displayed confirming ad creation.
+
+![Ad Created Successfully](screenshots/03-ad-success.png)
+
+
 This project uses TikTok Ads OAuth – Authorization Code Flow.
 
 Step 1: Create TikTok Developer Account
